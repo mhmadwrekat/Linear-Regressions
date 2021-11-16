@@ -5,6 +5,3 @@
 
 ---
 ### ***[Code .......](/regression.ipynb)***
-
-
----
